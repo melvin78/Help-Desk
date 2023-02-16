@@ -1,4 +1,4 @@
-<p align="center"><a href="https://support-ui.webmelvin.me" target="_blank"><img src="https://raw.githubusercontent.com/melvin78/TicketCRM/master/ticket.png" width="400"></a></p>
+<p align="center"><a href="https://support-ui.webmelvin.me" target="_blank"><img src="https://raw.githubusercontent.com/melvin78/Help-Desk/main/blob/ticket.png" width="400"></a></p>
 
 
 # Helpdesk Solution 
@@ -31,16 +31,16 @@ whether it has been assigned to an agent, transferred to a different agent or ha
 #  Screenshots
 
 Ticket History
-<img src="https://raw.githubusercontent.com/melvin78/TicketCRM/master/main-support.png" alt="here">
+<img src="https://raw.githubusercontent.com/melvin78/Help-Desk/main/blob/ticket-history.png" alt="here">
 
-Ticket History
-<img src="https://raw.githubusercontent.com/melvin78/TicketCRM/master/ticket-history.png" alt="here">
+Chat History
+<img src="https://raw.githubusercontent.com/melvin78/Help-Desk/main/blob/chat-history.png" alt="here">
 
-Previous Tickets
-<img src="https://raw.githubusercontent.com/melvin78/TicketCRM/master/previous-tickets.png" alt="here">
+Dashboard View
+<img src="https://raw.githubusercontent.com/melvin78/Help-Desk/main/blob/dashboard-view.png" alt="here">
 
-Open Chats
-<img src="https://raw.githubusercontent.com/melvin78/TicketCRM/master/chat.png" alt="here">
+Dialog showing extra ticket information
+<img src="https://raw.githubusercontent.com/melvin78/Help-Desk/main/blob/pop-up-dialog.png" alt="here">
 
 
 
