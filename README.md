@@ -28,8 +28,9 @@ After successfully logging in you will be directed to the dashboard. Here you ca
 view history of all closed tickets and recently opened Tickets. You can also view the status of your tickets
 whether it has been assigned to an agent, transferred to a different agent or has been resolved. Open chat with an agent in order to get assistance.
 
+#  Screenshots
 
-Dashboard
+Ticket History
 <img src="https://raw.githubusercontent.com/melvin78/TicketCRM/master/main-support.png" alt="here">
 
 Ticket History
